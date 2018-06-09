@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106675667611",
+    "firebase_url": "https://xamarin-firebase-upload.firebaseio.com",
+    "project_id": "xamarin-firebase-upload",
+    "storage_bucket": "xamarin-firebase-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106675667611:android:509df5b4736d3adc",
+        "android_client_info": {
+          "package_name": "XamarinFirebaseUpload.XamarinFirebaseUpload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106675667611-uaqje2geqkur79fme9p9iofa6pr182hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "XamarinFirebaseUpload.XamarinFirebaseUpload",
+            "certificate_hash": "0ecb31a5cc6d336f84db6d8aa02f06ed564dfc79"
+          }
+        },
+        {
+          "client_id": "106675667611-iidthhr1cfnh85qtvpi42pj3eef4ncnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4NZSpiXzAdnG9Zwgq3G1C89BACvP01a8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106675667611-iidthhr1cfnh85qtvpi42pj3eef4ncnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
